@@ -3,8 +3,8 @@ Contributors: Rohittm
 Donate link: http://www.RohitMotwani.com/
 Tags: Star Wars, Force, Hello Dolly, The Dark Side
 Requires at least: 3.0.1
-Tested up to: 4.4
-Stable tag: 4.3
+Tested up to: 4.7
+Stable tag: 4.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,18 +24,21 @@ Activate this Plugin & feel The Force in your Admin Dashboard. This Plugin is ju
 
 == Screenshots ==
 
-/The_Force/screenshot-1.png
-/The_Force/screenshot-2.png
-/The_Force/screenshot-3.png
+1. Description for screenshot 1
+2. Description for screenshot 2
+3. Description for screenshot 3
 
 == Changelog ==
 
-=1.2=
+= 1.3 =
+Rougue One Dialogues Added
 
-*The Force Awakens Best Quote Added !
+= 1.2 =
 
-=1.1=
-*Spelling errors corrected !
+The Force Awakens Best Quote Added !
+
+= 1.1 =
+Spelling errors corrected !
 
 = 1.0 =
-*New Quotes Added.
+New Quotes Added.

@@ -1,14 +1,14 @@
 <?php
 /**
  * @package The_Force
- * @version 1.2
+ * @version 1.3
  */
 /*
 Plugin Name: The Force
 Plugin URI: http://www.RohitMotwani.com/
 Description: This Plugin is Just Similar to the WordPress' Famous <cite>Hello Dolly</cite> Plugin. Except when activated you will randomly see a quote from The Star Wars Series in the upper right of your admin screen on every page.
 Author: Rohit Motwani
-Version: 1.2
+Version: 1.3
 Author URI: http://www.RohitMotwani.com/
 */
 
@@ -61,8 +61,7 @@ Luke is a Jedi. You’re his father.
 You will remove these restraints and leave this cell with the door open.
 That’s not how The Force works!
 I’m being torn apart. I want to be free of this pain.
-Chewie, We're Home
-A major weapons test is imminent. We need to know what it is and how to destroy it.";
+Chewie, We're Home";
 
 	// Here we split it into lines
 	$quotes = explode( "\n", $quotes );
