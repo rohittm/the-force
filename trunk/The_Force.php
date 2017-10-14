@@ -14,21 +14,21 @@ Author URI: http://www.RohitMotwani.com/
 
 function the_force_get_quotes() {
 	/** These are the quotes of Star Wars */
-	$quotes = "May The Force Be With You.
-The Force is Strong in my family.
-My Father Has it.
+	$quotes = "May the force be with you.
+The Force is strong in my family.
+My father has it.
 I have it.
-My Sister have it.
+My sister has it.
 You have that power too.
 I find your lack of faith disturbing.
 The Jedi you are.
-Don't Underestimate the power of The Dark Side.
-The Force is Strong with you.
+Don't underestimate the power of the Dark Side.
+The Force is strong with you.
 Hmm! Adventure. Hmmpf! Excitement. A Jedi craves not these things.
-Hey R2 , What do you think ?
+Hey R2, what do you think ?
 Peeeeee poooo peeee peeee peee pooooo tuiiiiiiiiii.
 AAAAAAAhhhhhhhhhhhhh AAAAAAAAhhhhhhhhhhhhhhhhh -Chewbacca.
-Good Relations with Wookies I have.
+Good relations with Wookies I have.
 I've got a bad feeling about this.
 Now, witness the power of fully operational battle station.
 Light it up, fuzzball!
@@ -61,7 +61,7 @@ Luke is a Jedi. You’re his father.
 You will remove these restraints and leave this cell with the door open.
 That’s not how The Force works!
 I’m being torn apart. I want to be free of this pain.
-Chewie, We're Home";
+Chewie, we're Home";
 
 	// Here we split it into lines
 	$quotes = explode( "\n", $quotes );
